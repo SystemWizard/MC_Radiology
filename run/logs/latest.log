@@ -1,0 +1,137 @@
+[11:22:21] [main/INFO] [GradleStart]: Extra: []
+[11:22:21] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Greg/.gradle/caches/minecraft/assets, --assetIndex, 1.12, --accessToken{REDACTED}, --version, 1.12.2, --tweakClass, net.minecraftforge.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[11:22:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[11:22:21] [main/INFO] [FML]: Forge Mod Loader version 14.23.4.2705 for Minecraft 1.12.2 loading
+[11:22:21] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_172, running on Windows 10:amd64:10.0, installed at C:\Program Files\Java\jdk1.8.0_172\jre
+[11:22:21] [main/ERROR] [FML]: Apache Maven library folder was not in the format expected. Using default libraries directory.
+[11:22:21] [main/ERROR] [FML]: Full: C:\Users\Greg\.gradle\caches\modules-2\files-2.1\org.apache.maven\maven-artifact\3.5.3\7dc72b6d6d8a6dced3d294ed54c2cc3515ade9f4\maven-artifact-3.5.3.jar
+[11:22:21] [main/ERROR] [FML]: Trimmed: c:/users/greg/.gradle/caches/modules-2/files-2.1/org.apache.maven/maven-artifact/3.5.3/
+[11:22:21] [main/INFO] [FML]: Managed to load a deobfuscated Minecraft name- we are in a deobfuscated environment. Skipping runtime deobfuscation
+[11:22:21] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLCorePlugin (net.minecraftforge.fml.relauncher.FMLCorePlugin), we are in deobf and it's a forge core plugin
+[11:22:21] [main/INFO] [FML]: Ignoring missing certificate for coremod FMLForgePlugin (net.minecraftforge.classloading.FMLForgePlugin), we are in deobf and it's a forge core plugin
+[11:22:21] [main/INFO] [FML]: Searching C:\DEV\Minecraft Mods\MC_Radiology\run\.\mods for mods
+[11:22:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:22:21] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.fml.relauncher.FMLCorePlugin
+[11:22:21] [main/INFO] [GradleStart]: Injecting location in coremod net.minecraftforge.classloading.FMLForgePlugin
+[11:22:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[11:22:21] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:22:22] [main/ERROR] [FML]: FML appears to be missing any signature data. This is not a good thing
+[11:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[11:22:22] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[11:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.gradle.tweakers.AccessTransformerTweaker
+[11:22:23] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:22:23] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[11:22:23] [main/INFO] [LaunchWrapper]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[11:22:23] [main/INFO] [net.minecraft.client.Minecraft]: Setting user: Player209
+[11:22:26] [main/WARN] [net.minecraft.client.settings.GameSettings]: Skipping bad option: lastServer:
+[11:22:26] [main/INFO] [net.minecraft.client.Minecraft]: LWJGL Version: 2.9.4
+[11:22:27] [main/INFO] [FML]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_172, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 851742216 bytes (812 MB) / 1099431936 bytes (1048 MB) up to 7626293248 bytes (7273 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 388.13' Renderer: 'GeForce GTX 1080/PCIe/SSE2'
+[11:22:27] [main/INFO] [FML]: MinecraftForge v14.23.4.2705 Initialized
+[11:22:27] [main/INFO] [FML]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[11:22:27] [main/INFO] [FML]: Replaced 1036 ore ingredients
+[11:22:27] [main/INFO] [FML]: Searching C:\DEV\Minecraft Mods\MC_Radiology\run\.\mods for mods
+[11:22:27] [main/INFO] [FML]: Forge Mod Loader has identified 5 mods to load
+[11:22:29] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, radiology] at CLIENT
+[11:22:29] [main/INFO] [FML]: Attempting connection with missing mods [minecraft, mcp, FML, forge, radiology] at SERVER
+[11:22:30] [main/FATAL] [FML]: Attempted to load a proxy type com.qntus.minecraft.radiology.proxy.ClientProxy into com.qntus.minecraft.radiology.Main.proxy, but the types don't match
+[11:22:30] [main/ERROR] [FML]: An error occurred trying to load a proxy into proxy.net.minecraftforge.fml.common.LoaderException: Attempted to load a proxy type com.qntus.minecraft.radiology.proxy.ClientProxy into com.qntus.minecraft.radiology.Main.proxy, but the types don't match
+[11:22:30] [main/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: ---- Minecraft Crash Report ----
+// There are four lights!
+
+Time: 7/10/18 11:22 AM
+Description: There was a severe problem during mod loading that has caused the game to fail
+
+net.minecraftforge.fml.common.LoaderException: net.minecraftforge.fml.common.LoaderException: Attempted to load a proxy type com.qntus.minecraft.radiology.proxy.ClientProxy into com.qntus.minecraft.radiology.Main.proxy, but the types don't match
+	at net.minecraftforge.fml.common.ProxyInjector.inject(ProxyInjector.java:102)
+	at net.minecraftforge.fml.common.FMLModContainer.constructMod(FMLModContainer.java:603)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.sendEventToModContainer(LoadController.java:218)
+	at net.minecraftforge.fml.common.LoadController.propogateStateMessage(LoadController.java:196)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at com.google.common.eventbus.Subscriber.invokeSubscriberMethod(Subscriber.java:91)
+	at com.google.common.eventbus.Subscriber$SynchronizedSubscriber.invokeSubscriberMethod(Subscriber.java:150)
+	at com.google.common.eventbus.Subscriber$1.run(Subscriber.java:76)
+	at com.google.common.util.concurrent.MoreExecutors$DirectExecutor.execute(MoreExecutors.java:399)
+	at com.google.common.eventbus.Subscriber.dispatchEvent(Subscriber.java:71)
+	at com.google.common.eventbus.Dispatcher$PerThreadQueuedDispatcher.dispatch(Dispatcher.java:116)
+	at com.google.common.eventbus.EventBus.post(EventBus.java:217)
+	at net.minecraftforge.fml.common.LoadController.distributeStateMessage(LoadController.java:135)
+	at net.minecraftforge.fml.common.Loader.loadMods(Loader.java:593)
+	at net.minecraftforge.fml.client.FMLClientHandler.beginMinecraftLoading(FMLClientHandler.java:225)
+	at net.minecraft.client.Minecraft.init(Minecraft.java:513)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:421)
+	at net.minecraft.client.main.Main.main(Main.java:118)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(GradleStartCommon.java:97)
+	at GradleStart.main(GradleStart.java:25)
+Caused by: net.minecraftforge.fml.common.LoaderException: Attempted to load a proxy type com.qntus.minecraft.radiology.proxy.ClientProxy into com.qntus.minecraft.radiology.Main.proxy, but the types don't match
+	at net.minecraftforge.fml.common.ProxyInjector.inject(ProxyInjector.java:95)
+	... 43 more
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_172, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1112722392 bytes (1061 MB) / 1298137088 bytes (1238 MB) up to 7626293248 bytes (7273 MB)
+	JVM Flags: 0 total; 
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: MCP 9.42 Powered by Forge 14.23.4.2705 5 mods loaded, 5 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+
+	| State | ID        | Version      | Source                           | Signature |
+	|:----- |:--------- |:------------ |:-------------------------------- |:--------- |
+	| UC    | minecraft | 1.12.2       | minecraft.jar                    | None      |
+	| UC    | mcp       | 9.42         | minecraft.jar                    | None      |
+	| UC    | FML       | 8.0.99.99    | forgeSrc-1.12.2-14.23.4.2705.jar | None      |
+	| UC    | forge     | 14.23.4.2705 | forgeSrc-1.12.2-14.23.4.2705.jar | None      |
+	| UE    | radiology | 0.1          | MC_Radiology_main                | None      |
+
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.6.0 NVIDIA 388.13' Renderer: 'GeForce GTX 1080/PCIe/SSE2'
+[11:22:30] [main/INFO] [STDOUT]: [net.minecraft.init.Bootstrap:printToSYSOUT:629]: #@!@# Game crashed! Crash report saved to: #@!@# C:\DEV\Minecraft Mods\MC_Radiology\run\.\crash-reports\crash-2018-07-10_11.22.30-client.txt
