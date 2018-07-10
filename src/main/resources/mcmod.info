@@ -1,0 +1,16 @@
+[
+{
+  "modid": "radiology",
+  "name": "Radiology",
+  "description": "This mod simulates radiation from Uranium ore and products of Uranium refinement exposure",
+  "version": "0.1",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["tsw"],
+  "credits": "tsw",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
